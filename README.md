@@ -1,16 +1,16 @@
-### Hi there 👋
+I am a developer with 8 years of experience in application design and development (3 years in life insurance system, 5 years in e-commerce system). I have been refreshing my skill of modern web application development since 2021.
 
-<!--
-**JeansCK/jeansck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+### Front-End
+- HTML, CSS 
+- JavaScript
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Back-End
+- Node.js
+- Express
+
+### Database
+- MySQL
+- MongoDB
